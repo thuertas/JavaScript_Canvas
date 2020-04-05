@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+    background: url("../img/jar.jpg");/* Photo by Yeshi Kangrang on Unsplash */
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-color: #0A0B0F;
+}
+
+audio {
+    float: left;
+}
