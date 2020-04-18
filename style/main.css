@@ -9,5 +9,6 @@ body {
 }
 
 audio {
-    float: left;
+    position: fixed;
+    left: 0;
 }
